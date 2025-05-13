@@ -90,9 +90,9 @@ Também é possivel utilizar authenticação via browser, caso prefira.
 Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/databricks-demo-itau/cicd_handson_itau
+git clone https://github.com/alfeuduran/databricks-lab-example-port.git
 
-cd cicd_handson_itau
+cd databricks-lab-example-port
 ```
 O repositorio já está configurado com um job existente, que cria uma tabela de funcionários. e um workflow configurado para executar este job.
 Caso você deseje utilizar um job diferente, você pode seguir o passo 3.
