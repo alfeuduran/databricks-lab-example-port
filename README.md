@@ -115,7 +115,7 @@ Este comando irá gerar os arquivos de configuração necessários para que voc�
 Quando executamos o comando para importar um job existente:
 
 ```bash
-> databricks bundle generate job --existing-job-id 393880860618601 -t dev -p itaudev
+> databricks bundle generate job --existing-job-id 393880860618601 -t dev -p dev
 File successfully saved to src/create_table_job.py
 Job configuration successfully saved to resources/lab_cicd_criar_tabela_funcionario.yml
 ```
